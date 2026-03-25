@@ -44,6 +44,7 @@ Tools for building AI agents and managing LLM deployments.
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines and [AGENTS.md](AGENTS.md) for project-specific rules (for both humans and agents).
+Please keep contributions and community interactions professional and safe for the workplace.
 
 ## Development
 
